@@ -28,7 +28,7 @@ Ou S., Su W., Liao Y., Chougule K., Agda J. R. A., Hellinga A. J., Lugo C. S. B.
 
 # Installation
 ## Install with conda/mamba (Linux64) 
-To install, first download the latest distribution tarball：[zgtools_latest.tar.gz](https://github.com/linyuiz/zgtools/releases) (not one of the Source code files!) from the github release page：https://github.com/linyuiz/EDTA-mod/releases. 
+To install, first download the latest distribution tarball：[zgtools_latest.tar.gz](https://github.com/linyuiz/zgtools/releases) (not one of the Source code files!) from the github release page：https://github.com/linyuiz/zgtools/releases. 
 
 ```shell
 #1. EDTA install
